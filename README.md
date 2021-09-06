@@ -1,2 +1,2 @@
-# noticias-chale
- dois sites exemplos utilizando css e html
+# News-Chalet
+Two sample sites using CSS and HTML.
